@@ -1,0 +1,19 @@
+{
+  "name": "esm-homeworks",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "live": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MironovaGV/ESM-homeworks.git"
+  },
+  "author": "MironovaGV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MironovaGV/ESM-homeworks/issues"
+  },
+  "homepage": "https://github.com/MironovaGV/ESM-homeworks#readme"
+}
